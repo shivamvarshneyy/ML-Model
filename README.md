@@ -30,8 +30,8 @@ All the datasets used to train the models can be found on the Kaggle website.
 ### Clone this Repository:
 
 ```sh
-git clone https://github.com/kaymen99/Healthcare-AI-WebApp.git
-cd Healthcare-AI-WebApp
+https://github.com/shivamvarshneyy/ML-Model.git
+cd ML-Model
 ```
 
 ### Using Python Directly:
